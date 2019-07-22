@@ -7,6 +7,7 @@
    ```
    
 2、flexible.js
+
    (1)安装flexible
 
    ```
